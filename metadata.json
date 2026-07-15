@@ -1,6 +1,6 @@
 {
-  "name": "CyberShield Awareness Login Page",
-  "description": "A premium, futuristic, enterprise-grade Security Operations Center (SOC) command dashboard and AI Security Intelligence Assistant featuring advanced CSS glassmorphism, dynamic automated threat detection, incident builders, and interactive cybersecurity learning.",
+  "name": "BLACK_WOLF AI",
+  "description": "Premium AI Assistant with a modern Security Operations Center (SOC) style, focused on education, cyber defense, software engineering, and responsible AI assistance.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
